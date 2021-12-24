@@ -1,32 +1,32 @@
 # SudoKing
-隐私政策
-    本应用尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。
-1. 适用范围
-  (a) 在您使用本应用网络服务，或访问本应用平台网页时，本应用自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
-  您了解并同意，以下信息不适用本隐私权政策：
-    (a) 本应用收集到的您在本应用发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情；
-    (b) 违反法律规定或违反本应用规则行为及本应用已对您采取的措施。
-2. 信息使用
-  (a)本应用不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和本应用（含本应用关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
-  (b) 本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。
-3. 信息披露
-  在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
-    (a) 经您事先同意，向第三方披露；
-    (b)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
-    (c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
-    (d) 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；
-    (e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
-    (f) 在本应用平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，本应用有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。
-    (g) 其它本应用根据法律、法规或者网站政策认为合适的披露。
-4. 信息存储和交换
-  本应用收集的有关您的信息和资料将保存在本应用及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本应用收集信息和资料所在地的境外并在境外被访问、存储和展示。
-5. Cookie的使用
-  (a) 在您未拒绝接受cookies的情况下，本应用会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies的本应用平台服务或功能。本应用使用cookies可为您提供更加周到的个性化服务，包括推广服务。
-  (b) 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的本应用网络服务或功能。
-  (c) 通过本应用所设cookies所取得的有关信息，将适用本政策。
-6. 信息安全
-  (a) 本应用帐号均有安全保护功能，请妥善保管您的用户名及密码信息。本应用将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。
-  (b) 在使用本应用网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对
-7.本隐私政策的更改
-  (a)如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。
-  (b)本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是本应用用户名及密码发生泄露，请您立即联络本应用客服，以便本应用采取相应措施。
+Privacy Policy
+    The Application respects and protects the personal privacy of all users of the Services. In order to provide you with a more accurate and personalized service, the Application will use and disclose your personal information as set out in this Privacy Policy. However, the Application will treat such information with a high degree of diligence and due care. Except as otherwise provided in this Privacy Policy, the Application will not disclose such information to outside parties or provide it to third parties without your prior consent. The Application may update this Privacy Policy from time to time. By agreeing to the Application Service Use Agreement, you are deemed to have agreed to this Privacy Policy in its entirety. This Privacy Policy is an integral part of this Service Use Agreement.
+1. Scope of application
+    (a) Information on your browser and computer that is automatically received and recorded by the Application when you use the Application's web services, or access the Application's platform web pages, including but not limited to your IP address, type of browser, language used, date and time of access, information on hardware and software characteristics and records of web pages you request.
+    You understand and agree that the following information does not apply to this privacy policy.
+        (a) Data collected by the Application relating to information posted by you on the Application, including but not limited to participation in events, transaction information and rating details.
+        (b) violations of the law or violations of the rules of this application and the actions that this application has taken against you.
+2. Information use
+    (a) The Application will not provide, sell, rent, share or trade your personal information to any unrelated third party, except with your prior permission, or where such third party and the Application (including the Application's affiliates) are providing a service to you, either individually or jointly, and following the end of that service, they will be denied access to all such information including those to which they previously had access.
+    (b) The Application also does not permit any third party to collect, compile, sell or distribute your personal information by any means without compensation. The Application reserves the right to immediately terminate the Service Agreement with any user of the Application who is found to be engaged in any of the above activities.
+3. Information Disclosure
+    The application will disclose your personal information, in whole or in part, in accordance with your personal wishes or as required by law, if
+    (a) Disclosure to third parties with your prior consent.
+    (b) To share your personal information with third parties where this is necessary to provide the products and services you have requested.
+    (c) To third parties or administrative or judicial bodies in accordance with the relevant provisions of the law, or the requirements of administrative or judicial bodies.
+    (d) If you are required to disclose to a third party in the event of a violation of relevant Chinese laws or regulations or this Application Service Agreement or related rules.
+    (e) If you are an eligible IPR complainant and have filed a complaint, disclosure to the Respondent is required at the request of the Respondent to enable the parties to deal with possible disputes over rights.
+    (f) If any party to a transaction created on the Application Platform fulfils or partially fulfils its obligations under the transaction and makes a request for disclosure of information, the Application reserves the right to decide to provide that user with the necessary information such as the contact details of the other party to its transaction in order to facilitate the completion of the transaction or the resolution of the dispute.
+    (g) Other disclosures that the Application deems appropriate in accordance with laws, regulations or website policies.
+4. Information storage and exchange
+    Information and data collected about you by the Application will be stored on the servers of the Application and/or its affiliates and may be transferred to, accessed, stored and displayed outside of your country, region or location where the Application collects information and data.
+5. Use of cookies
+    (a) Where you have not rejected cookies, the Application may set or retrieve cookies on your computer to enable you to log in or use services or features of the Application Platform that rely on cookies. The Application uses cookies to provide you with more personalised services, including promotional services.
+    (b) You have the right to choose to accept or decline cookies, and you may decline cookies by modifying your browser settings, but if you choose to decline cookies, you may not be able to log in to or use services or features of the Application that rely on cookies.
+    (c) This policy will apply to information obtained through the cookies set by the Application.
+6. Information Security
+    (a) Your account on the Application is protected by security features, so please keep your username and password information secure. The Application will ensure that your information is not lost, misused or altered by encrypting your password and other security measures. Notwithstanding the above security measures, please note that there are no "perfect security measures" on the information network.
+    (b) When using the Application Web Services to conduct online transactions, you will inevitably have to provide information to the counterparty or potential counterparty.
+7. Changes to this Privacy Policy
+    (a) If we decide to change our privacy policy, we will post those changes in this policy, on our website, and where we deem appropriate so that you are aware of how we collect and use your personal information, who has access to it, and under what circumstances we may disclose it.
+    (b) We reserve the right to change this policy at any time, so please check it frequently. If we make significant changes to this policy, we will inform you by way of a website notice. Please protect your personal information and provide it to others only when necessary. If you discover that your personal information has been compromised, especially your application username and password, please contact our customer service immediately so that the application can take appropriate action.
